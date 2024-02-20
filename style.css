@@ -57,3 +57,9 @@ a{
 button:hover{
     background-color:hsl(75, 94%, 57%) ;
 }
+@media(max-width:375px){
+    .parent{
+        height: 85%;
+        margin: 5px;
+    }
+}
